@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-12T12:09:37 IST" name="Default suite" finished-at="2025-06-12T12:09:41 IST" duration-ms="4503">
+    <groups>
+    </groups>
+    <test started-at="2025-06-12T12:09:37 IST" name="Default test" finished-at="2025-06-12T12:09:41 IST" duration-ms="4503">
+      <class name="sampleScreenShot.CreateScreenShot">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:sampleScreenShot.CreateScreenShot@3e694b3f]" started-at="2025-06-12T12:09:36 IST" name="configBS" finished-at="2025-06-12T12:09:37 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method signature="createcontactTest()[pri:0, instance:sampleScreenShot.CreateScreenShot@3e694b3f]" started-at="2025-06-12T12:09:37 IST" name="createcontactTest" finished-at="2025-06-12T12:09:41 IST" duration-ms="4462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcontactTest -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:sampleScreenShot.CreateScreenShot@3e694b3f]" started-at="2025-06-12T12:09:41 IST" name="configAS" finished-at="2025-06-12T12:09:42 IST" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- sampleScreenShot.CreateScreenShot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
