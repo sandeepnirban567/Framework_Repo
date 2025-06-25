@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="mavenProfile.OrgTest"/>
+      <class name="pact1.ContactTest"/>
+      <class name="mavenParameter.OrgTest"/>
+      <class name="mavenParameter.ContactTest"/>
+      <class name="pack2.OrgTest"/>
+      <class name="mavenProfile.ContactTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
