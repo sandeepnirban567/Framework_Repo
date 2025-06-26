@@ -31,4 +31,8 @@ public void DeleteContactTest() {
 	 
 	 System.out.println("execution  DeleteContact");
 }
+public void MyContactTest() {
+	 
+	 System.out.println("execution  MyContactTest");
+}
    }

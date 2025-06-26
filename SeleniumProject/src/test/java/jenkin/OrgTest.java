@@ -25,6 +25,10 @@ public class OrgTest {
 public void ModifyOrgTest() {
 		 
 		 System.out.println("execution  ModifyOrgTest");
-	 }
+	 } 
+public void MyContactTest() {
+	 
+	 System.out.println("execution  MyContactTest");
+}
 
 }
