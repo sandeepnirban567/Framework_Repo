@@ -27,5 +27,8 @@ public void ModifyContactTest() {
 		 
 		 System.out.println("execution  ModifyContact");
 	 }
-
+public void DeleteContactTest() {
+	 
+	 System.out.println("execution  DeleteContact");
+}
    }
